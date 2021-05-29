@@ -20,9 +20,11 @@ body{
 .education-container{
     background-color: #EEEEEE;
 }
-.container1{
+.g-container{
     margin: 100px 100px;
+    text-align: center;
 }
+
 .bg-redtype-color{
     color: #FB857F;
 }
