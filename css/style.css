@@ -20,11 +20,18 @@ body{
 .education-container{
     background-color: #EEEEEE;
 }
-.g-container{
-    margin: 100px 100px;
-    text-align: center;
-}
 
+.g-container{
+    
+    background-color:#FB857F ;
+    display:inline-block;
+    overflow:hidden;
+
+}
+.g-container img{
+    height:300px;
+    width:250px;
+}
 .bg-redtype-color{
     color: #FB857F;
 }
